@@ -50,5 +50,5 @@ src="https://img.icons8.com/nolan/96/vk-circled.png" style="max-width: 100%;">
 <a href="https://www.linkedin.com/in/oseiagm"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 3em; height: 3em;"></a>
 <a href="https://www.twitter.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" style="width: 3em; height: 3em;"></a>
 <a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="width: 3em; height: 3em;"></a>
-<a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 3em; height: 3em;"></a>
+<a href="https://www.discord.com/users/887263148275544085"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 3em; height: 3em;"></a>
 <a href="https://www.medium.com/@oseiagm"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" style="width: 3em; height: 3em;"></a>
