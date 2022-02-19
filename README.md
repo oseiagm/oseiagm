@@ -1,10 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently pursing bachelor's degree in Computer Engineering at the <a href="https://www.knust.edu.gh" target="_blank">Kwame Nkrumah University of Science and Technology</a>
+I am a freshman at <a href="https://www.knust.edu.gh" target="_blank">Kwame Nkrumah University of Science and Technology</a> pursing my bachelor's degree in Computer Engineering.
 <!--
-**oseiagm/oseiagm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
