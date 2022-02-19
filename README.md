@@ -13,7 +13,6 @@ He/Him
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" alt="C++" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" alt="HTML5" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&amp;logo=css3" alt="CSS3" style="max-width: 100%;"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap" alt="Bootstrap" style="max-width: 100%;"></a>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -24,6 +23,9 @@ He/Him
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap" alt="Bootstrap" style="max-width: 100%;"></a>
+
 
 <a href="https://www.facebook.com/oseiagm"><img src="https://img.icons8.com/color/344/facebook-new.png" alt="facebook" style="width: 3em; height: 3em;"></a>
 <a href="https://www.reddit.com/user/oseiagm"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit" style="width: 3em; height: 3em;"></a>
