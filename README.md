@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! 👋
 
 I am a freshman at <a href="https://www.knust.edu.gh" target="_blank">Kwame Nkrumah University of Science and Technology</a> pursing my bachelor's degree in Computer Engineering.
 <!--
