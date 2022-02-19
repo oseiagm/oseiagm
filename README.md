@@ -25,11 +25,11 @@ He/Him
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://www.facebook.com/oseiagm"><img src="https://img.icons8.com/color/344/facebook-new.png" alt="facebook" style="width: 3em; height: 3em;"></a>
+<a href="https://www.reddit.com/user/oseiagm"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit" style="width: 3em; height: 3em;"></a>
 
-
-"https://img.icons8.com/external-nawicon-outline-color-nawicon/452/external-email-communication-nawicon-outline-color-nawicon-2.png
-t="https://img.icons8.com/external-nawicon-flat-nawicon/452/external-email-communication-nawicon-flat-nawicon-2.png 2x" alt="Email icon in nawicon Flat" loading="lazy">
-
+"https://img.icons8.com/external-nawicon-outline-color-nawicon/452/external-email-communication-nawicon-outline-color-nawicon-2.png"
+"https://img.icons8.com/external-nawicon-flat-nawicon/452/external-email-communication-nawicon-flat-nawicon-2.png"
 src="https://img.icons8.com/color/96/000000/stackoverflow.png" style="max-width: 100%;">
 src="https://img.icons8.com/nolan/96/vk-circled.png" style="max-width: 100%;">
 -->
@@ -40,8 +40,6 @@ src="https://img.icons8.com/nolan/96/vk-circled.png" style="max-width: 100%;">
 <a href="mailto:hello@oseiagm"><img src="https://img.icons8.com/external-nawicon-outline-color-nawicon/452/external-email-communication-nawicon-outline-color-nawicon-2.png" alt="email" style="width: 3em; height: 3em;"></a>
 <a href="https://www.linkedin.com/in/oseiagm"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 3em; height: 3em;"></a>
 <a href="https://www.twitter.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" style="width: 3em; height: 3em;"></a>
-<a href="https://www.facebook.com/oseiagm"><img src="https://img.icons8.com/color/344/facebook-new.png" alt="facebook" style="width: 3em; height: 3em;"></a>
 <a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="width: 3em; height: 3em;"></a>
 <a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 3em; height: 3em;"></a>
-<a href="https://www.reddit.com/user/oseiagm"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit" style="width: 3em; height: 3em;"></a>
 <a href="https://www.medium.com/@oseiagm"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" style="width: 3em; height: 3em;"></a>
