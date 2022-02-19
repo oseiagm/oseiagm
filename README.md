@@ -6,11 +6,9 @@
 
 🤔 I’m looking for help in landing a FAANG internship.
 
-💬 Ask me about: 
-
 😄 Pronouns: He/Him
 
-⚡ Fun fact: 
+⚡ Fun fact: <blockquote>I destroy my enemy when I make him my friend.</blockquote>
 
 
 <h2>Technologies</h2>
