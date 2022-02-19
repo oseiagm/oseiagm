@@ -45,4 +45,3 @@ src="https://img.icons8.com/nolan/96/vk-circled.png" style="max-width: 100%;">
 <a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 3em; height: 3em;"></a>
 <a href="https://www.reddit.com/user/oseiagm"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit" style="width: 3em; height: 3em;"></a>
 <a href="https://www.medium.com/@oseiagm"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" style="width: 3em; height: 3em;"></a>
-
