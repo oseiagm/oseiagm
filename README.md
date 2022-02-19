@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
+I am currently pursing bachelor's degree in Computer Engineering at the <a href="https://www.knust.edu.gh" target="_blank">Kwame Nkrumah University of Science and Technology</a>
 <!--
 **oseiagm/oseiagm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
