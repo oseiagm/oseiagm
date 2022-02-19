@@ -13,6 +13,7 @@ He/Him
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" alt="C++" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" alt="HTML5" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&amp;logo=css3" alt="CSS3" style="max-width: 100%;"></a>
+<a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" alt="Github" style="max-width: 100%;"></a>
 
 <!--
 - 🔭 I’m currently working on ...
