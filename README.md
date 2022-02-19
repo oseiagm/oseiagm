@@ -16,5 +16,6 @@ I am a freshman at <a href="https://www.knust.edu.gh" target="_blank">Kwame Nkru
 # Links
 <a href="https://www.oseiagm.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/oseiagm"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="max-width: 100%;"></a>
 <a href="https://www.twitter.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/oseiagm"><img src="https://img.icons8.com/color/344/facebook-new.png" alt="facebook" style="width: 6em; height: 6em;"></a>
+<a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="max-width: 100%;"></a>
