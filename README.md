@@ -3,6 +3,9 @@
 ✨ I am a freshman at <a href="https://www.knust.edu.gh" target="_blank">Kwame Nkrumah University of Science and Technology</a> pursing my bachelor's degree in Computer Engineering.
 
 
+<h3>😄 Pronouns</h3>
+He/Him
+
 
 <h3>⚡ Technologies</h3>
 <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python" style="max-width: 100%;"></a>
@@ -10,7 +13,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" alt="C++" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" alt="HTML5" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&amp;logo=css3" alt="CSS3" style="max-width: 100%;"></a>
-
+<a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap" alt="Bootstrap" style="max-width: 100%;"></a>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -22,8 +25,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3>😄 Pronouns</h3>
-He/Him
+
 
 "https://img.icons8.com/external-nawicon-outline-color-nawicon/452/external-email-communication-nawicon-outline-color-nawicon-2.png
 t="https://img.icons8.com/external-nawicon-flat-nawicon/452/external-email-communication-nawicon-flat-nawicon-2.png 2x" alt="Email icon in nawicon Flat" loading="lazy">
