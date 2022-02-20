@@ -1,6 +1,6 @@
 <h2>Hello, world! 👋</h2>
 
-✨ I am a freshman '25 at <a href="https://www.knust.edu.gh" target="_blank">Kwame Nkrumah University of Science and Technology</a> majoring in Computer Engineering.
+✨ I am a freshman '25 at <a href="https://www.knust.edu.gh" target="_blank">KNUST</a> majoring in Computer Engineering.
 
 🌱 I'm currently learning to build mobile apps with Flutter.
 
