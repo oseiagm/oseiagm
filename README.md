@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning to build mobile apps with Flutter.
 
-🤔 I’m looking for help in landing a FAANG internship.
+🤔 I’m looking for help in landing a FAANG+ internship.
 
 😄 Pronouns: He/Him
 
