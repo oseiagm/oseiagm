@@ -10,14 +10,12 @@
 
 ⚡ Fun fact: <blockquote>I destroy my enemy when I make him my friend.</blockquote>
 
-
 <h2>Technologies</h2>
 <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C++-000?&amp;logo=c%2b%2b&amp;logoColor=00599C" alt="C++" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" alt="C++" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" alt="HTML5" style="max-width: 100%;"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&amp;logo=css3" alt="CSS3" style="max-width: 100%;"></a>
-
 
 <h2>Links</h2>
 <a href="https://www.oseiagm.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" style="width: 3em; height: 3em;"></a>
