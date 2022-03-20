@@ -1,12 +1,12 @@
 <h2>Hello, world! 👋</h2>
 
-✨ I am a freshman '25 at <a href="https://www.knust.edu.gh" target="_blank">KNUST</a> majoring in Computer Engineering.
+✨ I am a Computer Engineering student @ <a href="https://www.knust.edu.gh" target="_blank">KNUST</a> '25.
 
 🌱 I'm currently learning to build mobile apps with Flutter.
 
 🤔 I’m looking for help in landing a FAANG+ internship.
 
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him/His
 
 ⚡ Fun fact: <blockquote>I destroy my enemy when I make him my friend.</blockquote>
 
