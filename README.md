@@ -6,7 +6,7 @@
 
 🤔 I’m looking for help in landing a FAANG+ internship.
 
-😄 Pronouns: He/Him/His
+😄 Pronouns: He/Him
 
 ⚡ Fun fact: <blockquote>I destroy my enemy when I make him my friend.</blockquote>
 
