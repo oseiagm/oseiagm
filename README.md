@@ -2,13 +2,11 @@
 
 ✨ I am a Computer Engineering student @ <a href="https://www.knust.edu.gh" target="_blank">KNUST</a> '25.
 
-🌱 I'm currently learning to build mobile apps with Flutter.
-
-🤔 I’m looking for help in landing a FAANG+ internship.
+🌱 I'm currently building websites and digital experiences, crafted with emotion, precision, and style.
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: <blockquote>I destroy my enemy when I make him my friend.</blockquote>
+⚡ Fun fact: <blockquote>My superpower is a relentless drive to keep solutions simple, both in design and code.</blockquote>
 
 <h2>Technologies</h2>
 <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python" style="max-width: 100%;"></a>
