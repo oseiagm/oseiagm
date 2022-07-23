@@ -17,7 +17,7 @@
 
 <h2>Links</h2>
 <a href="https://www.oseiagm.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" style="width: 3em; height: 3em;"></a>
-<a href="mailto:hello@oseiagm"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" style="width: 3em; height: 3em;"></a>
+<a href="mailto:hello@oseiagm.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" style="width: 3em; height: 3em;"></a>
 <a href="https://www.linkedin.com/in/oseiagm"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 3em; height: 3em;"></a>
 <a href="https://www.twitter.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" style="width: 3em; height: 3em;"></a>
 <a href="https://www.instagram.com/oseiagm"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="width: 3em; height: 3em;"></a>
