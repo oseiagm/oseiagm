@@ -1,6 +1,6 @@
 <h2>Hello, world! 👋</h2>
 
-✨ My name is Samuel Osei, a Computer Engineering student @ <a href="https://www.knust.edu.gh" target="_blank">KNUST</a> '25.
+✨ I am Computer Engineering student @ <a href="https://www.knust.edu.gh" target="_blank">KNUST</a> '25.
 
 🌱 I'm currently building websites and digital experiences, crafted with emotion, precision, and style.
 
