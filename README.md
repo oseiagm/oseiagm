@@ -1,8 +1,8 @@
 <h2>Hello, world! 👋</h2>
 
-✨ I'm Samuel, a Computer Engineering student @ <a href="https://www.knust.edu.gh" target="_blank">KNUST</a>.
+✨ I'm Samuel from Ghana.
 
-🌱 I am currently learning new languages and frameworks for side projects.
+🌱 I am currently learning new languages and frameworks to build cool projects.
 
 😄 Pronouns: He/Him
 
