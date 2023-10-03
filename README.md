@@ -1,3 +1,2 @@
 - 👋🏽 Hi! My name is Samuel.
-- 🔭 I’m interested in PM, SWE, AI/ML, or any technical internship roles.
 - 🌱 I like learning new stuff and taking on new challenges.
