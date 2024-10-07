@@ -1,2 +1,2 @@
-- 👋🏽 Hi! My name is Samuel.
-- 🌱 I like learning new stuff and taking on new challenges.
+- 👋🏽 Hi! My name is Sam.
+- 🌱 I like learning new stuff and taking on challenges.
