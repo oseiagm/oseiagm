@@ -1,1 +1,1 @@
-- 👋🏽 Hi! My name is Sam. I'm a bit of a generalist with too many interests to easily summarize, but one common theme is that I like communities, stories, and technologies that help people live their best lives.
+- 👋🏽 My name is Sam. I'm a bit of a generalist with too many interests to easily summarize, but one common theme is that I like communities, stories, and technologies that help people live their best lives.
